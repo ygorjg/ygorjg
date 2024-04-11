@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou o Ygor José, desenvolvedor front-end! 👋
 
 <!--
 **ygorjg/ygorjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
